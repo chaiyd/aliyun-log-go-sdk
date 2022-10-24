@@ -12,7 +12,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/pierrec/lz4 v2.6.1+incompatible
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.1
 	go.uber.org/atomic v1.9.0
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 	google.golang.org/protobuf v1.28.0 // indirect
