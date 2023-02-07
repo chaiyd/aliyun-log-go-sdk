@@ -61,7 +61,7 @@ google.golang.org/protobuf/reflect/protoregistry
 google.golang.org/protobuf/runtime/protoiface
 google.golang.org/protobuf/runtime/protoimpl
 google.golang.org/protobuf/types/descriptorpb
-# gopkg.in/natefinch/lumberjack.v2 v2.0.0
+# gopkg.in/natefinch/lumberjack.v2 v2.2.1
 gopkg.in/natefinch/lumberjack.v2
 # gopkg.in/yaml.v3 v3.0.1
 gopkg.in/yaml.v3

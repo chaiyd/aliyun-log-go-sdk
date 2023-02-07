@@ -16,5 +16,5 @@ require (
 	go.uber.org/atomic v1.9.0
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 	google.golang.org/protobuf v1.28.0 // indirect
-	gopkg.in/natefinch/lumberjack.v2 v2.0.0
+	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 )
