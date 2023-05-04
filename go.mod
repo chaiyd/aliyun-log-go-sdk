@@ -13,7 +13,7 @@ require (
 	github.com/pierrec/lz4 v2.6.1+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.2
-	go.uber.org/atomic v1.9.0
+	go.uber.org/atomic v1.11.0
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
